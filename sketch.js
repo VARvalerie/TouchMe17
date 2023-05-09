@@ -20,7 +20,7 @@ function preload() {
   Zone4 = loadSound('mp3/Zone4.mp3');
   Zone5 = loadSound('mp3/Zone5.mp3');
   Zone6 = loadSound('mp3/Zone6.mp3');
-  Zone7 = loadSound('mp3/ Zone7.mp3');
+  Zone7 = loadSound('mp3/Zone7.mp3');
   Zone8 = loadSound('mp3/Zone8.mp3');
 
   sounds = [
